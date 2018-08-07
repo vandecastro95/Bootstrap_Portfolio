@@ -1,0 +1,26 @@
+.header {
+    background: #4AAAA5;
+    margin-left: -30px;
+    color: white;
+  height: 50px;
+  border-top: #4AAAA5;
+}
+
+body{
+    background-image: url(ignasi_pattern_s.png);
+}
+
+.boxed {
+    border: groove;
+    background-color: #ffffff;
+    width: 980px;
+}
+
+.navA {
+  height: 50px;
+  background: #ffffff;
+}
+
+.container h1 {
+  color: #4AAAA5;
+}
