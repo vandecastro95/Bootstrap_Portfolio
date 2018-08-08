@@ -1,3 +1,7 @@
+html {
+    overflow-y:scroll;
+}
+
 .header {
     background: #4AAAA5;
     margin-left: -30px;
@@ -13,7 +17,8 @@ body{
 .boxed {
     border: groove;
     background-color: #ffffff;
-    width: 980px;
+    max-width: 980px;
+    margin-top: 50px;
 }
 
 .navA {
@@ -23,4 +28,28 @@ body{
 
 .container h1 {
   color: #4AAAA5;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.boxed h2 {
+    color: #4AAAA5;
+}
+
+
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    background: #4AAAA5;
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 50%;
 }
