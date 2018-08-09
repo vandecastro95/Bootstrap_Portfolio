@@ -10,17 +10,15 @@
 
     body{
         background-image: url(ignasi_pattern_s.png);
+        
     }
 
     .boxed {
-        border: groove;
-        background-color: #ffffff;
         max-width: 980px;
         margin-top: 50px;
     }
 
     .navA {
-    background: #ffffff;
     max-height: 75px;
     }
 
