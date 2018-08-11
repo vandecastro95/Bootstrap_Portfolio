@@ -1,0 +1,49 @@
+    html {
+        overflow-y:scroll;
+    }
+
+    .header {
+        margin-left: -30px;
+        color: white;
+    border-top: #4AAAA5;
+    }
+
+    body{
+        background-image: url(ignasi_pattern_s.png);
+        
+    }
+
+    .boxed {
+        max-width: 980px;
+        margin-top: 50px;
+    }
+
+    .navA {
+    max-height: 75px;
+    }
+
+    img .no.resize {
+        max-width: 100%;
+        max-height: 100%;
+        min-width: 100%;
+        max-height: 100%;
+    }
+
+
+    .boxed h2 {
+        color: #4AAAA5;
+    }
+
+    .thumbnail {
+        position: relative;
+    }
+    
+    .caption {
+        position: absolute;
+        top: 70%;
+        left: 0;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    
