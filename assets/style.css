@@ -46,4 +46,9 @@
         overflow: hidden;
     }
 
+    a:link {
+        text-decoration: none;
+        color: #F8F9FA;
+    }
+
     
